@@ -1,19 +1,23 @@
 # DeepFake Detector: AI vs Human
 *Clasificacion de imagenes reales vs generadas con IA por medio de DeepLearning*
 
+* ***Jefferson Acevedo***
+* ***Samuel Noriega***
+* ***Oscar Silva***
+
 La creciente sofisticación de los modelos generativos ha dificultado la distinción entre imágenes reales y artificiales. Este fenómeno impacta negativamente en la veracidad de la información y la seguridad digital, haciendo imperativo el desarrollo de herramientas de detección automatizada.
 
 Tenemos como objetivo general desarrollar un sistema de clasificación basado en redes neuronales capaz de discriminar entre imágenes fotográficas reales e imágenes sintéticas generadas por IA.
 
 El proyecto se centra en un análisis comparativo de distintas arquitecturas de Deep Learning para identificar la más eficiente en esta tarea específica. Se evaluarán los siguientes enfoques:
 
-- Redes Neuronales Profundas (DNN / MLP).
+1. Redes Neuronales Profundas (DNN / MLP).
 
-- Redes Neuronales Convolucionales (CNN) diseñadas desde cero.
+2. Redes Neuronales Convolucionales (CNN) diseñadas desde cero.
 
-- CNNs optimizadas mediante Transfer Learning.
-
-- Autoencoders para detección de anomalías.
+3. CNNs optimizadas mediante Transfer Learning.
+   
+5. Autoencoders para detección de anomalías.
 
 El estudio se fundamenta en el dataset 'AI-Generated-vs-Real-Images' (Hemg) alojado en HuggingFace, el cual consta de un corpus de 152,710 muestras balanceadas entre clases (81,174 sintéticas y 71,536 reales).
 
