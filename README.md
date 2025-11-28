@@ -64,15 +64,17 @@ El desempeño de los modelos se mide mediante:
 
 Estas métricas permiten evaluar el nivel de discriminación entre imágenes reales y generadas por IA.
 
-## Resultados
+## Resultados del estudio
+
+A continuación se presentan las métricas obtenidas por cada arquitectura evaluada:
 
 | **Modelo**          | **Accuracy** | **Precisión** | **Recall** | **AUC**   |
 |---------------------|--------------|----------------|------------|-----------|
-| **DNN**             | 71.12%       | 71.24%         | 71.30%     | 70%       |
+| **DNN**             | 71.12%       | 71.24%         | 71.30%     | 70.00%       |
 | **Vision Transformer** | 73.64%   | 73.64%         | 73.64%     | 82.32%    |
-| **CNN**             | 62.53%       | 62.36%         | 62.34%     | 60%       |
+| **CNN**             | 62.53%       | 62.36%         | 62.34%     | 60.00%       |
 | **Transfer Learning** | 86.61%    | 86.95%         | 87%        | 94.40%    |
-| **AutoEncoder**     | 82%          | 82%            | 82%        | 89%       |
+| **AutoEncoder**     | 82.00%          | 82.00%            | 82.00%        | 89.00%       |
 
 ---
 
@@ -97,3 +99,11 @@ Estas métricas permiten evaluar el nivel de discriminación entre imágenes rea
 
 ---
 
+
+## Conclusiones
+
+El uso de técnicas de Transfer Learning (especialmente con ResNet50) mostró el mejor rendimiento general. 
+Además, la variedad del dataset permitió evaluar la robustez de cada arquitectura frente a imágenes reales con degradación física y contenido sintético generado por diferentes modelos de IA.
+
+Este proyecto constituye un punto de partida para futuros sistemas de detección de DeepFakes y herramientas de verificación digital.
+---
