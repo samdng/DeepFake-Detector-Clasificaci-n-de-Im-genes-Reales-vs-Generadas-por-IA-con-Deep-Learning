@@ -31,8 +31,8 @@ La idea principal es identificar cuál de ellos funciona mejor frente a un conju
 3. **Transfer Learning con CNNs preentrenadas**  
    Se empleó *ResNet50* como arquitectura base para aprovechar sus pesos preentrenados y adaptarla a la clasificación entre imágenes reales y sintéticas.
 
-4. **Autoencoders para detección de anomalías**  
-   Se emplea el error de reconstrucción como indicador de posibles DeepFakes.
+4. **Autoencoder como extractor de características**  
+   Se utilizó el autoencoder como extractor de características, seguido de una capa de clasificación basada en un MLP.
 
 ---
 
