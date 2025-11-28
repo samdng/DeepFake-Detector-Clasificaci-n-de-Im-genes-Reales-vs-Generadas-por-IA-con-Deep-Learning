@@ -87,6 +87,14 @@ A continuación se presentan las métricas obtenidas por cada arquitectura evalu
 - `train/` — Scripts de entrenamiento, callbacks y configuración de experimentos.  
 
 ---
+## 🎥 Video del Proyecto
+
+<div align="center">
+
+[![DeepFake Detector - Video](https://youtu.be/30R0Vg_JfKM)
+
+</div>
+
 
 ## Ejemplo del dataset
 
@@ -98,6 +106,11 @@ A continuación se presentan las métricas obtenidas por cada arquitectura evalu
 </div>
 
 ---
+
+## 🖥️ Presentación del Proyecto
+
+🔗 **Diapositivas en Canva:**  
+https://www.canva.com/design/DAG3My3vKXM/2s-gnqmvPG6LM3aHe3lMQQ/edit?utm_content=DAG3My3vKXM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 ## Conclusiones
