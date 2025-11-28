@@ -38,8 +38,9 @@ La idea principal es identificar cuál de ellos funciona mejor frente a un conju
 
 ## Dataset: AI-Generated-vs-Real-Images (Hemg)
 
-🔗 **HuggingFace Dataset: [Link](https://huggingface.co/datasets/Hemg/AI-Generated-vs-Real-Images-Datasets?clone=true)
-** *152,710 imágenes*  
+🔗 **HuggingFace Dataset:** 
+[Link](https://huggingface.co/datasets/Hemg/AI-Generated-vs-Real-Images-Datasets?clone=true)
+ *152,710 imágenes*  
 - 81,174 sintéticas  
 - 71,536 reales  
 
