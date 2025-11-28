@@ -5,7 +5,7 @@
 # DeepFake Detector: AI vs Human  
 <br>
 
-[Jeferson Acevedo](https://github.com/Jeferson0809) • [Samuel Noriega](https://github.com/) • [Oscar Silva](https://github.com/)
+[Jeferson Acevedo](https://github.com/Jeferson0809) • [Samuel Noriega](https://github.com/samdng) • [Oscar Silva](https://github.com/Oscar-Silva-D)
 
 ---
 
