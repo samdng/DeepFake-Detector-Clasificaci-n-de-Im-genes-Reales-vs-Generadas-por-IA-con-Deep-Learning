@@ -29,7 +29,7 @@ La idea principal es identificar cuál de ellos funciona mejor frente a un conju
    Arquitecturas convolucionales ligeras para aprender patrones espaciales.
 
 3. **Transfer Learning con CNNs preentrenadas**  
-   Uso de modelos robustos como *ResNet*, *EfficientNet* o *MobileNet*.
+   Se empleó *ResNet50* como arquitectura base para aprovechar sus pesos preentrenados y adaptarla a la clasificación entre imágenes reales y sintéticas.
 
 4. **Autoencoders para detección de anomalías**  
    Se emplea el error de reconstrucción como indicador de posibles DeepFakes.
