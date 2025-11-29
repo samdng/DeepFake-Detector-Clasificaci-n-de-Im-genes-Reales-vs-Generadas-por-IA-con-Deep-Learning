@@ -78,13 +78,30 @@ A continuación se presentan las métricas obtenidas por cada arquitectura evalu
 
 ---
 
-## Estructura del repositorio
+## 🗂️ Estructura del repositorio
 
-- `data/` — Scripts y notebooks para carga y preparación de datos.  
-- `images/` — Resultados, visualizaciones y ejemplos del modelo.  
-- `models/` — Implementación de arquitecturas evaluadas.  
-- `notebooks/` — Experimentos y análisis exploratorios.  
-- `train/` — Scripts de entrenamiento, callbacks y configuración de experimentos.  
+### 📸 `images/` — Resultados por modelo
+- **Autoencoder/** → Matriz, reporte y métricas.
+- **CNN/** → Accuracy, matriz de confusión y reporte.
+- **CNN+Transfer-Learning/** → Visuales del modelo ResNet50 finetuneado.
+- **DNN/** → Pérdida, métricas y matriz de confusión.
+- **Vision-Transformer/** → Resultados del ViT.
+
+### 🧠 `models/` — Modelos entrenados
+- `CNN.keras`
+- `CNNTL.keras`
+- `DNN_model.keras`
+
+### 📓 `notebooks/` — Notebooks utilizados
+- `Autoencoder.ipynb`
+- `CNN.ipynb`
+- `CNN+transfer-learning.ipynb`
+- `DNN.ipynb`
+- `Vision_Transformer.ipynb`
+
+### 📄 `README.md`
+Documentación completa del proyecto.
+
 
 ---
 
